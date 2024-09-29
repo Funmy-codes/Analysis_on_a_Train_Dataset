@@ -31,7 +31,7 @@ Key Steps in the Repository
 -    Generated plots such as bar charts and histograms to gain deeper insights into the relationships within the data.
 
 
-####Requirements
+Requirements
 
 -    Python 3.x
 -    Pandas
